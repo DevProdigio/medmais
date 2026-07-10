@@ -1,2 +1,0 @@
-# medmais
-Clinica Integrada
